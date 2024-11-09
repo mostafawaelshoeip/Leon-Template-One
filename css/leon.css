@@ -452,7 +452,9 @@ section article h2 {
     .portofolio figure {
         margin: 1rem;
     }
+}
 
+@media (max-width: 320px) {
     .portofolio figure {
         width: 300px;
         height: 375px;
